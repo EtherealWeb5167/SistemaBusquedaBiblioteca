@@ -68,7 +68,7 @@ namespace SistemaBusquedaBiblioteca
             }
         }
 
-        // BuSQUEDA LINEAL 
+        // algoritmo de BuSQUEDA LINEAL 
         // Recorrer uno por uno hasta encontrarlo.
         static void BusquedaLineal(List<Libro> libros)
         {
