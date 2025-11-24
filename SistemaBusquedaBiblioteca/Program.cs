@@ -90,7 +90,7 @@ namespace SistemaBusquedaBiblioteca
             if (!encontrado) Console.WriteLine("Libro no encontrado.");
         }
 
-        //BuSQUEDA BINARIA ---
+        //sistemade BuSQUEDA BINARIA ---
         // Dividir la lista a la mitad repetidamente. 
         static void BusquedaBinariaAutores(List<Libro> libros)
         {
