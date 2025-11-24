@@ -68,7 +68,7 @@ namespace SistemaBusquedaBiblioteca
             }
         }
 
-        // BuSQUEDA LINEAL 
+        // algoritmo de BuSQUEDA LINEAL 
         // Recorrer uno por uno hasta encontrarlo.
         static void BusquedaLineal(List<Libro> libros)
         {
@@ -90,7 +90,7 @@ namespace SistemaBusquedaBiblioteca
             if (!encontrado) Console.WriteLine("Libro no encontrado.");
         }
 
-        //BuSQUEDA BINARIA ---
+        //sistemade BuSQUEDA BINARIA ---
         // Dividir la lista a la mitad repetidamente. 
         static void BusquedaBinariaAutores(List<Libro> libros)
         {
